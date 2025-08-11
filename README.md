@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Sithomola Musiki
 
-<!--
-**Musiki8213/Musiki8213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer** | 🚀 Building projects that blend creativity & technology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m Currently Learning
+- Javasceript and Python
+- Backend optimization with Node.js
+
+---
+
+### 🎯 My Current Focus
+- Creating open-source tools for developers
+- Improving my UI/UX skills
+- Contributing to collaborative projects
+
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS
+- **Backend:** Node.js, Javascript , Python
+- **Other:** Git, SQL
+
+---
+
+### 📫 How to Reach Me
+
+- **LinkedIn:** www.linkedin.com/in/musiki-sithomola-820a97359
+- **Email:** sithomolamusiki@gmail.com
+
+---
+
+⭐ *"Code is like humor. When you have to explain it, it’s bad."*
