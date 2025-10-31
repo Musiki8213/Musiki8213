@@ -5,7 +5,7 @@
 ---
 
 ### 🌱 What I’m Currently Learning
-- Javasceript and Python
+- Javascript and Python
 - Backend optimization with Node.js
 
 ---
